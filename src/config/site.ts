@@ -1,0 +1,1 @@
+export const site = { name:'AE Tech Hub', tagline:'Innovating the Digital Future', phone:'2348000000000', email:'hello@aetechhub.com', address:'Lagos, Nigeria', hours:'Mon – Fri, 9:00 AM – 5:00 PM', socials:{linkedin:'#',instagram:'#',facebook:'#'} }
